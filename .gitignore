@@ -1,0 +1,20 @@
+fakealgo
+*.o
+*.pyc
+*.swp
+
+# Autotools
+*.in
+configure
+autom4te.cache/
+config.log
+config.status
+compile
+depcomp
+install-sh
+missing
+aclocal.m4
+build-aux/
+.deps/
+Makefile
+.dirstamp
